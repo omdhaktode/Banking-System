@@ -3,8 +3,8 @@ public class Hello {
         System.out.println("Om Dhaktode");
         System.out.println();
         int a=10;
-        int b=20;
         System.out.println(a);
+        int b=20;
         System.out.println(b);
 
     }
